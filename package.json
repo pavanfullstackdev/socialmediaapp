@@ -1,0 +1,16 @@
+{
+  "name": "socialmediaapp",
+  "version": "1.0.0",
+  "description": "a backend for social media app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "react",
+    "backend"
+  ],
+  "author": "Pavan Birari",
+  "license": "ISC"
+}
