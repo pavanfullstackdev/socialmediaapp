@@ -330,4 +330,4 @@ export {
   updateAccountDetails,
   updateUserAvatar,
   updateUserCoverImage,
-};
+}; 
